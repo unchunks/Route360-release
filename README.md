@@ -1,4 +1,5 @@
-# Route360のインストール手順
+![総ダウンロード数](https://img.shields.io/github/downloads/unchunks/Route360-release/total?label=総ダウンロード数&color=blue&style=social)
+# Route360のインストール手順 
 
 ここでは、**Route360**をAndroidデバイスにインストールする方法を説明します。以下の手順に従ってインストールを完了してください。
 
