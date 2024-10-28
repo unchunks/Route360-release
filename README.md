@@ -1,4 +1,9 @@
 ![総ダウンロード数](https://img.shields.io/github/downloads/unchunks/Route360-release/total?label=総ダウンロード数&color=blue&style=social)
+
+# 趣旨
+
+人口減少社会という問題を観光という切り口で解決するために、学生と宮崎青年会議所、そして行政が一緒になって開発したアプリの実証実験です。
+
 # Route360のインストール手順 
 
 ここでは、**Route360**をAndroidデバイスにインストールする方法を説明します。以下の手順に従ってインストールを完了してください。
