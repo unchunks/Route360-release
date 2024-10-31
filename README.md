@@ -18,7 +18,7 @@
 
 1. **APKファイルをダウンロード**
    - 以下のリンクからAPKファイルをAndroidデバイスにダウンロードしてください。
-   - [ダウンロードリンク](https://github.com/unchunks/Route360-release/releases/download/v1.2/Route360_v1.2.apk)
+   - [ダウンロードリンク](https://github.com/unchunks/Route360-release/releases/download/v1.3/Route360_v1.3.apk)
 
 2. **APKファイルを開きインストール**
    - ファイルマネージャーアプリなどを使って、ダウンロードしたAPKファイルを開きます。
