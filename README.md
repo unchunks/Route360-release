@@ -16,6 +16,9 @@
 
 ## インストール手順
 
+動画でのインストール手順はコチラ↓
+https://youtube.com/shorts/W97eV6s2Hhs?si=8PY0NWjQnAeoTxWI
+
 1. **APKファイルをダウンロード**
    - 以下のリンクからAPKファイルをAndroidデバイスにダウンロードしてください。
    - [ダウンロードリンク](https://github.com/unchunks/Route360-release/releases/download/v1.3/Route360_v1.3.apk)
